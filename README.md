@@ -1,2 +1,2 @@
-# flgb9790.github.io
+# Антон Лойко
 first project
